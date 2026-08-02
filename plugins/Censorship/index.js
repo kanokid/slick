@@ -14,7 +14,7 @@ module.exports = {
       type: 'text',
       label: 'Blocked terms',
       description: 'Comma-separated terms to censor',
-      default: 'job, employment',
+      default: 'fuck, fucking, fucked, fucker, shit, shitty, shithead, bitch, bitching, asshole, ass, bastard, dick, dickhead, cunt, crap, damn, damned, piss, prick, slut, whore, twat, wanker, motherfucke',
     },
     style: {
       type: 'select',
